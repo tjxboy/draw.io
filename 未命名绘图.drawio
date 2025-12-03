@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="342" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1025" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Systemic Therapy for Unresectable Locally Advanced, Recurrent, or Metastatic Disease" vertex="1">
-          <mxGeometry height="60" width="200" x="490" y="470" as="geometry" />
+          <mxGeometry height="170" width="150" x="530" y="415" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-70" edge="1" parent="1" source="Ri87L_LFLeKn9dl2b2uA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ri87L_LFLeKn9dl2b2uA-65">
           <mxGeometry relative="1" as="geometry" />
@@ -35,19 +35,28 @@
           <mxGeometry height="60" width="120" x="790" y="610" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-65" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="HER2 positive" vertex="1">
-          <mxGeometry height="60" width="120" x="980" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="980" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-68" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="HER2 negative" vertex="1">
           <mxGeometry height="60" width="120" x="980" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-69" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="MSI-H/dMMR" vertex="1">
-          <mxGeometry height="60" width="120" x="980" y="410" as="geometry" />
+          <mxGeometry height="60" width="120" x="980" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="Ri87L_LFLeKn9dl2b2uA-73" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FP / XP / FOLFOX / CAPOX + trastuzumab" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="150" as="geometry" />
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-73" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FP / XP / PFL / FOLFOX / CAPOX + trastuzumab" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ri87L_LFLeKn9dl2b2uA-75" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FP / XP / FOLFOX / CAPOX + trastuzumab + pembrolizumab (" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="220" as="geometry" />
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-75" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FP / XP / FOLFOX / CAPOX + trastuzumab + pembrolizumab (PD-L1 CPS ≥1)" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-78" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX + nivolumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-79" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP + pembrolizumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-81" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

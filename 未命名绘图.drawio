@@ -53,10 +53,10 @@
           <mxGeometry height="60" width="200" x="1150" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-79" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP + pembrolizumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="200" x="1150" y="290" as="geometry" />
+          <mxGeometry height="60" width="200" x="1150" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-81" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP" vertex="1">
-          <mxGeometry height="60" width="200" x="1150" y="360" as="geometry" />
+          <mxGeometry height="60" width="200" x="1150" y="380" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-83" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX + nivolumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="200" x="1150" y="470" as="geometry" />
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-85" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="Pembrolizumab / Dostarlimab / Nivolumab + Ipilimumab&lt;font class=&quot;notranslate immersive-translate-target-wrapper&quot; translate=&quot;no&quot; lang=&quot;zh-CN&quot; data-immersive-translate-loading-id=&quot;&quot; id=&quot;4&quot;&gt;&amp;nbsp; &lt;font class=&quot;immersive-translate-loading-spinner notranslate&quot;&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="1150" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-86" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP + tislelizumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1350" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-87" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX + zolbetuximab (CLDN18.2 positive)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1350" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1025" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-68" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="HER2 negative" vertex="1">
           <mxGeometry height="60" width="120" x="980" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="Ri87L_LFLeKn9dl2b2uA-69" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="MSI-H/dMMR" vertex="1">
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-69" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="MSI-H/dMMR (independent of PD-L1 status)" vertex="1">
           <mxGeometry height="60" width="120" x="980" y="540" as="geometry" />
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-73" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FP / XP / PFL / FOLFOX / CAPOX + trastuzumab" vertex="1">
@@ -57,6 +57,15 @@
         </mxCell>
         <mxCell id="Ri87L_LFLeKn9dl2b2uA-81" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP" vertex="1">
           <mxGeometry height="60" width="200" x="1150" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-83" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX + nivolumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-84" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="FOLFOX / CAPOX / FP / XP + pembrolizumab (PD-L1 CPS ≥1)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Ri87L_LFLeKn9dl2b2uA-85" parent="1" style="rounded=1;html=1;whiteSpace=wrap;" value="Pembrolizumab / Dostarlimab / Nivolumab + Ipilimumab&lt;font class=&quot;notranslate immersive-translate-target-wrapper&quot; translate=&quot;no&quot; lang=&quot;zh-CN&quot; data-immersive-translate-loading-id=&quot;&quot; id=&quot;4&quot;&gt;&amp;nbsp; &lt;font class=&quot;immersive-translate-loading-spinner notranslate&quot;&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="1150" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
